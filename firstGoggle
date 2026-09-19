@@ -1,7 +1,6 @@
-name: Doing the things it needs to
-description: Does all the stuff
-author: yourMothersCat
-type: personal
-
+! name: My Goggle
+! description: What it does
+! author: yourname
+! public: false   
 man$intext$discard
 guy$intext$discard   
